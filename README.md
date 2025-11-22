@@ -98,7 +98,7 @@
     - **Absatz 11.3:** Schreiben mit CAPSLOCK ist zu unterlassen.
     - **Absatz 11.4:** Das Spammen mit Farb-Codes ist verboten.
     - **Absatz 11.5:** Das Abwerben von Spielern für andere Server ist untersagt.
-    - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
+    - **Absatz 11.6:** Betteln nach Ingame-Rechten, Ingame-Währung, Rängen oder Items ist nicht gestattet.
     - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
     - **Absatz 11.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
     - **Absatz 11.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
@@ -120,4 +120,4 @@
 - **Absatz 14:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
 - **Absatz 15:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
 - **Absatz 16:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens untersagt – mit Ausnahme von netzwerkeigenen Initiativen. Die Werbung für Shops mit räumlich getrennten Casinos ist jedoch erlaubt, sofern der Shop im Vordergrund steht und klar erkennbar ist, dass die Absicht der Werbung auf den Shop abzielt und nicht auf das Casino.
-- **Absatz 17:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. LabyMod-Capes) ist verboten.
+- **Absatz 17:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. auf LabyMod-Capes) ist verboten.
